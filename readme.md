@@ -64,7 +64,7 @@ Scan the QR code to access the site on your mobile device.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/ECOmob.git
+   git clone https://github.com/ecomob/ECOmob.git
 Install Dependencies
 
 bash
@@ -92,44 +92,21 @@ Routing: React Router DOM
 
 Mobile App: React Native 
 
-package.json Dependencies
-json
-Copy
-{
-  "name": "vite-react-typescript-starter",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "lucide-react": "^0.344.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "react-router-dom": "^6.22.2",
-    "zustand": "^4.5.2"
-  },
-  "devDependencies": {
-    "@eslint/js": "^9.9.1",
-    "@types/react": "^18.3.5",
-    "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react": "^4.3.1",
-    "autoprefixer": "^10.4.18",
-    "eslint": "^9.9.1",
-    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
-    "eslint-plugin-react-refresh": "^0.4.11",
-    "globals": "^15.9.0",
-    "postcss": "^8.4.35",
-    "tailwindcss": "^3.4.1",
-    "typescript": "^5.5.3",
-    "typescript-eslint": "^8.3.0",
-    "vite": "^5.4.2"
-  }
-}
+Design Perspective
+At ECOmob, we prioritize user-centric design and sustainability. Our design philosophy revolves around creating intuitive, accessible, and visually appealing interfaces that encourage users to adopt eco-friendly transportation options. Here’s what drives our design:
+
+Minimalism: Clean and clutter-free interfaces to ensure ease of use.
+
+Responsiveness: Seamless experience across devices, from desktops to mobile phones.
+
+Eco-Friendly Aesthetic: Use of green and earthy tones to reflect our commitment to sustainability.
+
+Real-Time Data Visualization: Interactive charts and graphs for admins to monitor usage and revenue trends.
+
+Accessibility: Designed with inclusivity in mind, ensuring all users can navigate the platform effortlessly.
+
+We are also planning to extend this design philosophy to our upcoming React Native mobile app, ensuring a consistent and delightful experience across all platforms.
+
 Contributing
 Contributions are welcome! Open an issue or submit a PR for improvements.
 
