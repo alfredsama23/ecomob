@@ -4,7 +4,9 @@ Access the Site
 Visit the live site at: https://ecomob.my
 
 QR Code
+
 ![QR](./images/qr.svg)
+
 Scan the QR code to access the site on your mobile device.
 
 ---
