@@ -35,8 +35,8 @@ Scan the QR code to access the site on your mobile device.
 
 ## Screenshots
 
-| Admin Dashboard          | User Dashboard           | Landing Page              |
-|--------------------------|--------------------------|---------------------------|
+| Admin Dashboard          | User Dashboard           |
+|--------------------------|--------------------------|
 | ![Admin](./images/admin-dashbourd.png) | ![User](./images/user-dashbourd.png) |
 
 ---
