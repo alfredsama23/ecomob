@@ -1,6 +1,6 @@
 ECOmob is a sustainable urban mobility platform offering integrated bus and e-bike services with smart features to promote eco-friendly transportation. This repository contains the frontend components for the Admin Dashboard, User Dashboard, and Landing Page.
 
-![ECOmob Preview](./images/landing-page.png)
+![ECOmob Preview](./images/landing page.png)
 
 ## Key Features
 
